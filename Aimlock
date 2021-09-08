@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/W4NDR3/DaHood/7a35fa835d2c86401e3a238728e1a74f5653bb12/AimLockSettings"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/W4NDR3/DaHood/main/AimLockSettings"))()
 Aiming.TeamCheck(false)
 
 -- // Services
